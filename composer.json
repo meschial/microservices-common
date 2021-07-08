@@ -1,0 +1,19 @@
+{
+    "name": "marcosfgti/microservices-common",
+    "description": "Package files utils microservices docker",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marcosfgti\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Meschial",
+            "email": "marocsmeschial@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
