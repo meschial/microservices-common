@@ -2,6 +2,8 @@
 
 namespace Marcosfgti\MicroservicesCommon\Services\Traits;
 
+use Illuminate\Support\Facades\Http;
+
 trait ConsumeExternalService
 {
   public function headers(array $headers = [])
